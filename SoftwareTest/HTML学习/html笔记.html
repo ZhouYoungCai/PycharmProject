@@ -1,0 +1,28 @@
+<!DOCTYPE html><!编码声明，表示支持html代码编辑>
+<html><!表示网页框架的开始>
+<head><!网页的头部，存储网页基础信息，例如：网页名字，网页编码格式等信息>
+	<title>百度一下，就不知道！</title><!网页的页标签>
+	<meta charset="utf-8" /> <!编码格式，加在title下面>
+</head>
+<body><!网页的主体内容，占有的比例大>
+<a href="file:///C:/Users/THINK/Desktop/news.html" target="_self" id="1" name='ti'>新闻</a><!新闻为超链接的载体，在超链接这个标签里加入target="_self"表示替换自身窗口打开>
+<a href="file:///C:/Users/THINK/Desktop/news.html" target="_blank" id="2" name='xin'>news</a><!加入target="_blank"表示跳转新窗口打开，id和name都是无具体功能含义的属性>
+<form><!表单标签>
+账号：
+<input type="text" name="zhang"/><br/><!type="text"表示明文文本输入框，br/表示换行符>
+密码：
+<input type="password" name="psw"/><!type="password"表示密文输入文本框><br/>
+<input type="submit" value="登录" class="login" /><!type="submit"表示提交按钮，value="登录"表示把提交按钮的字样改为登录，class属于无具体功能含义的属性>
+<select><!select+option是一个下拉框选项标签>
+	<option>---------请选择性别----------</option>
+	<option>男</option>
+	<option>女</option>
+</select>
+<input type="radio" name="sex" value="female" checked/>女 <!单选使用input标签，type属性为radio，name属性必须与同类的单选一致，checked表示默认选项>
+<input type="radio" name="sex" value="male" />男
+<input type="checkbox" name="sex" value="male"/>男<!type="checkbox"为复选框选项>
+<input type="checkbox" name="sex" value="female"/>女
+<button onclick="alert('hello')">hello</button><!按钮标签使用button>
+</form>
+</body>
+</html><!表示网页框架的结束>
