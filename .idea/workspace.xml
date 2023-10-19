@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16dd94e2-198a-48ab-9250-a6b6505cdea1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Requests/20231019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftwareTest/HTML学习/chromedriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-001/001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-001/Chrome-driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-001/datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-001/python变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-002/Hogwarts-Test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-002/Hogwarts-Test/chrome-driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-002/Hogwarts-Test/implicit_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-002/Hogwarts-Test/requestdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-002/Hogwarts-Test/search_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-003-ApiAutoTest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-003-ApiAutoTest/test_case-005-file_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-003-ApiAutoTest/test_case-008-header_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-003-ApiAutoTest/test_case-009-timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-003-ApiAutoTest/test_case-010-file_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-003-ApiAutoTest/test_case-011-proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase-003-ApiAutoTest/test_case-012-http-basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/TestCase-004-HttpRunner/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/pythonProject/20231013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/pythonProject/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WyivQy3YVvphRfRVzyt6fYDrDF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Requests" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16dd94e2-198a-48ab-9250-a6b6505cdea1" name="Changes" comment="" />
+      <created>1697711450361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697711450361</updated>
+      <workItem from="1697711451722" duration="541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
